@@ -3,4 +3,4 @@ orange
 yellow
 mustard
 green
-voilet
+violet
